@@ -1,0 +1,2 @@
+Hello, Node.js File System!
+Appended text to the file!

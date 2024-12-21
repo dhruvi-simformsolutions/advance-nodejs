@@ -1,0 +1,3 @@
+The cluster module in Node.js allows you to create multiple child processes (workers) that can share the same server port. 
+This is especially useful for taking advantage of multi-core systems, as Node.js runs on a single thread by default. 
+By using cluster, we can create a cluster of workers, each running on a different core, improving the performance of CPU-bound applications.
